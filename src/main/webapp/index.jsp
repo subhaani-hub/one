@@ -38,7 +38,7 @@
         </section>
 
         <section id="clothes" class="product-section">
-            <h2>Clothing</h2>
+            <h3>Clothing</h2>
             <div class="product-gridd" id="clothing-products"> <!-- Bug: class name typo 'product-gridd' -->
                 <!-- Clothing products will be inserted here by JavaScript -->
             </div>
