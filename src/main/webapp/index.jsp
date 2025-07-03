@@ -10,7 +10,7 @@
 <body>
     <header>
         <div class="logo">
-            <h1>ShopEasy<h1> <!-- Bug: Missing closing slash on <h1> -->
+            <h2>ShopEasy<h1> <!-- Bug: Missing closing slash on <h2> -->
         </div>
         <nav>
             <ul>
